@@ -1,0 +1,48 @@
+<svg viewBox="0 0 680 740" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+<title>Component placement inside the conversation screen</title>
+<rect width="680" height="740" fill="#ffffff"/>
+<rect x="180" y="10" width="320" height="720" fill="#ffffff" stroke="#444441" stroke-width="2"/>
+
+<rect x="194" y="26" width="292" height="40" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="46" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#2c2c2a">Header</text>
+
+<rect x="194" y="74" width="292" height="510" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="204" y="90" dominant-baseline="central" font-size="14" font-weight="bold" fill="#2c2c2a">Timeline (scrolls)</text>
+
+<rect x="290" y="104" width="100" height="22" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="115" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">DateHeading</text>
+
+<rect x="240" y="132" width="200" height="22" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="143" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">SystemMessage</text>
+
+<rect x="300" y="162" width="176" height="44" fill="#eeedfe" stroke="#534ab7"/>
+<text x="388" y="178" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#3c3489">ChatMessage</text>
+<text x="388" y="194" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#534ab7">user + MessageStatus</text>
+
+<rect x="204" y="216" width="272" height="168" fill="#eeedfe" stroke="#534ab7"/>
+<text x="340" y="232" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#3c3489">ChatMessage (ai)</text>
+<rect x="214" y="248" width="252" height="88" fill="#e1f5ee" stroke="#0f6e56"/>
+<text x="340" y="264" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#085041">RecommendationList (scrolls sideways)</text>
+<rect x="222" y="278" width="110" height="48" fill="#ffffff" stroke="#0f6e56" stroke-width="0.8"/>
+<text x="277" y="302" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#085041">Card</text>
+<rect x="340" y="278" width="110" height="48" fill="#ffffff" stroke="#0f6e56" stroke-width="0.8"/>
+<text x="395" y="302" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#085041">Card</text>
+<rect x="214" y="346" width="252" height="28" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="360" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">FeedbackBar</text>
+
+<rect x="204" y="394" width="272" height="44" fill="#eeedfe" stroke="#534ab7"/>
+<text x="340" y="416" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#3c3489">ChatMessage (human)</text>
+
+<rect x="204" y="448" width="120" height="30" fill="#f1efe8" stroke="#888780"/>
+<text x="264" y="463" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">TypingIndicator</text>
+
+<rect x="194" y="594" width="292" height="32" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="610" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#2c2c2a">ReplyPreview (only when replying)</text>
+
+<rect x="194" y="632" width="292" height="80" fill="#f1efe8" stroke="#888780"/>
+<text x="340" y="648" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="bold" fill="#2c2c2a">Composer</text>
+<rect x="204" y="662" width="200" height="40" fill="#ffffff" stroke="#888780" stroke-width="0.8"/>
+<text x="304" y="682" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">Text input</text>
+<rect x="412" y="662" width="64" height="40" fill="#ffffff" stroke="#888780" stroke-width="0.8"/>
+<text x="444" y="682" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#444441">Send</text>
+</svg>
